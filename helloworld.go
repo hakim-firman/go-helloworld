@@ -1,5 +1,8 @@
 package gohelloworld
 
 func Helloworld() string {
-	return "helloworld "
+	return "Hello World "
+}
+func Name() string {
+	return "Hakim firman Febrian "
 }
